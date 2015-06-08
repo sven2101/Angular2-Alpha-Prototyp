@@ -1,0 +1,30 @@
+[
+	{
+		"id":200,
+		"name":"Iphone 6",
+		"description":"It is a very good smartphone",
+		"amount":3,
+		"price": "750€"
+	},
+	{
+		"id":201,
+		"name":"Iphone 6",
+		"description":"It is a very good smartphone",
+		"amount":3,
+		"price": "750€"
+	},
+	{
+		"id":202,
+		"name":"Iphone 6",
+		"description":"It is a very good smartphone",
+		"amount":3,
+		"price": "750€"
+	},
+	{
+		"id":203,
+		"name":"Iphone 6",
+		"description":"It is a very good smartphone",
+		"amount":3,
+		"price": "750€"
+	}	
+]
